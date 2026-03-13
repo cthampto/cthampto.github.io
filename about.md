@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+This blog is a personal threat intelligence and security research journal. Posts cover incident analysis, malware triage, detection engineering, and notes from the front lines of security operations.
 
-### More Information
+### Research Focus
 
-A place to include any other types of information that you'd like to include about yourself.
+Adversary tradecraft, detection logic, and lessons learned from real-world security incidents. Opinions are my own.
 
-### Contact me
+### Contact
 
-[email@domain.com](mailto:email@domain.com)
+[cthampto@github](https://github.com/cthampto)
